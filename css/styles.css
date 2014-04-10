@@ -27,7 +27,7 @@
 
 .log .name-newsletter, .log .email-newsletter, .log .phone-newsletter { 
 		width: 150px;
-		height: 35px;
+		height: 25px;
 		padding: 0px 12px;
 		font-size: 15px;
 		font-weight: 400;
@@ -52,13 +52,13 @@ font-family: 'Roboto', sans-serif;
 font-weight:400; 
 font-size:14px; 
 padding:0 0px 0;
-height:35px;
+height:25px;
 width:80px;
 border-radius:5px; 
 display:block;
 box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 0px 1px rgba(255, 255, 255, 0.9) inset,  0 4px 0px rgba(0, 0, 0, 0.1);
 text-align:center;
-margin:-36px auto 0; position:relative; 
+margin:-26px auto 0; position:relative; 
 background: #ff3300!important;
 }
 

@@ -2,7 +2,7 @@
   width: 100%!important;
 }
 .wrapper { width:940px; margin:0 auto; }
-body { margin:0; padding:0; font-family: 'robotoregular'; font-size:100%; background:#f9f9f3;height:100% }
+body { margin:0; padding:0; font-family: 'robotoregular'; font-size:100%; background:#ebeff2;height:100% }
 *{outline:none}
  #map-canvas {margin: 0;padding: 0;height:100%;position:absolute;width:100% }
 .centered {display: block;margin-left: auto; margin-right: auto;text-align: center}
@@ -343,7 +343,7 @@ border-radius: 6px 0 6px 6px}
 .req-quote-btn:hover{background:url(../images/search-btno.png);}
 .venue-top-btn{margin:-7px 0 0 0;background:#4eae48;padding:.5em 1em;color:#fff;font-size:12px;-webkit-border-radius:5px;-moz-border-radius: 5px;border-radius:5px;-webkit-box-shadow: 0px 3px 5px 0px rgba(50, 50, 50, 0.37);-moz-box-shadow:0px 3px 5px 0px rgba(50, 50, 50, 0.37);box-shadow:0px 3px 5px 0px rgba(50, 50, 50, 0.37);text-align:center;border:1px solid #999;text-shadow:1px 1px #999}
 
-.menu-main { font-size:12px; color:#fff;background:#f9f9f3 !important;border-bottom:1px solid #ebebeb !important}
+.menu-main { font-size:12px; color:#fff;background:#ebeff2 !important;border-bottom:1px solid #ebebeb !important}
 
 .heads { font-size:15px; color:#999; text-align:center; margin:3px 0 20px 0;font-family:'robotoregular'}
 .heads-option{ font-size:15px; color:#666 !important;font-family:'robotoregular';float:right;text-decoration: none;text-decoration: none !important; cursor: pointer}
